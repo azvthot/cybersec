@@ -9,3 +9,7 @@ This list details network cards and chipsets supporting monitor mode, ideal for 
 
 ### List of Network Cards and Adapters with Monitor Mode
 Find the [list of network cards and adapters that support monitor mode here](https://github.com/azvthot/cybersec/blob/main/Network%20Adapters%20%26%20Chipsets%20with%20Monitor%20Mode.txt)
+
+
+### Brief description of most common Kali Tools explaining what are they used for
+Find the [list of of applications here](https://github.com/azvthot/cybersec/blob/main/Brief%20description%20of%20Kali%20tools.txt)
