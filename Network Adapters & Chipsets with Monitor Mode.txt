@@ -1,0 +1,89 @@
+Chipsets:
+	Atheros AR9271
+	Ralink RT3070
+	Ralink RT3572
+	Ralink RT5572
+	Realtek RTL8187L
+	Realtek RTL8192CU
+	Realtek RTL8812AU* (supports up to 2 antennas)
+	Realtek RTL8814AU* (supports up to 4 antennas)
+	Additional Suggestions:
+	Atheros AR9280 (common in older laptops, supports monitor mode)
+	Intel AX200/AX210 (modern Wi-Fi 6 chipsets with monitor mode support under specific drivers)
+	MediaTek MT7601U (affordable, widely supported in monitor mode)
+	
+Network Cards:
+	Alfa AWUS036NHA* / Kali Compatible / 2.4GHz / Atheros AR9271 / 150Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	Alfa AWUS036AC / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 2 Interchangeable Antennas / ~$50 USD
+	Alfa AWUS036ACH* / Kali Compatible & Windows Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-C / 2 Interchangeable Antennas
+	Alfa AWUS036ACS / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	Alfa AWUS052NH / Kali Compatible / 2.4GHz & 5GHz / Ralink RT3572 / 300Mbps & 867Mbps / Mini USB / USB 2.0 / 2 Interchangeable Antennas
+	Alfa AWUS036EAC / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 2 Interchangeable Antennas
+	Alfa AWUS1900 / Kali Compatible & Windows (drivers not optimal) / 2.4GHz & 5GHz / Realtek RTL8814AU / 600Mbps & 1300Mbps / USB 3.0 / USB-A / 4 Interchangeable Antennas
+	Alfa AWPCIE-1900U / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8814AU / 600Mbps & 1300Mbps / Full-Size Mini PCIe / 4 Interchangeable Antennas
+	ASUS USB-N13 Rev B1 / Kali Compatible / 2.4GHz / Realtek RTL8192CU / 100Mbps / USB 2.0 / USB-A / No External Antenna
+	D-Link DWA-182 Rev C / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 (Rev C1A) / USB-A / 1 Internal Antenna
+	D-Link DWA-192 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8814AU / 600Mbps & 1300Mbps / USB 3.0 / USB-A / 4 Internal Antennas
+	Edimax AC600 USB / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8811AU / 150Mbps & 433Mbps / USB 2.0 / USB-A / 1 Internal Antenna
+	Netis WF2190 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 2 Interchangeable Antennas
+	Netis WF2123 / Kali Compatible / 2.4GHz / Realtek RTL8192CU / 300Mbps / USB 2.0 / USB-A / No External Antenna
+	Tenda U12 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 1 Interchangeable Antenna
+	TRENDnet TEW-809UB* / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 600Mbps & 1300Mbps / USB 3.0 / USB-A / 4 Interchangeable Antennas / ~$50 USD
+	TRENDnet TEW-809UB / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 600Mbps & 1300Mbps / USB 3.0 / USB-A / 4 Interchangeable Antennas
+	TRENDnet AC1900 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8814AU / 600Mbps & 1300Mbps / USB 3.0 / USB-A / 4 Interchangeable Antennas
+	TP-Link TL-WN722N / Kali Compatible / 2.4GHz / Atheros AR9271 / 150Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	TP-Link TL-WN821N Rev V4 / Kali Compatible / 2.4GHz / Realtek RTL8192CU / 300Mbps / USB 2.0 / USB-A / No External Antenna
+	TP-Link TL-WN822N / Kali Compatible / 2.4GHz / Realtek RTL8192CU / 300Mbps / USB 2.0 / USB-A / 2 Interchangeable Antennas
+	TP-Link TL-WN823N Rev V1 / Kali Compatible / 2.4GHz / Realtek RTL8192CU / 300Mbps / USB 2.0 / USB-A / No External Antenna
+	TP-Link AC1900 Archer T9UH / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8814AU / 600Mbps & 1300Mbps / USB 3.0 / USB-A / 4 Interchangeable Antennas
+	TP-Link Archer T4UH Rev V2 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 2 Interchangeable Antennas
+	TP-Link Archer T4U Rev V3 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 1 Internal Antenna
+	Panda PAU05 USB / Kali Compatible / 2.4GHz / Ralink RT3070 / 300Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	Panda Wireless PAU09 N600 / Kali Compatible / 2.4GHz & 5GHz / Ralink RT5572 / 300Mbps & 867Mbps / USB 2.0 / USB-A / 2 Interchangeable Antennas
+	ZyXEL NWD6605 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 2 Internal Antennas
+Additional Suggestions:
+	BrosTrend AC1200 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812BU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 2 Interchangeable Antennas
+	ASUS USB-AC68 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8814AU / 600Mbps & 1300Mbps / USB 3.0 / USB-A / 3 Interchangeable Antennas
+	Linksys WUSB6300 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 2 Internal Antennas
+	Alfa AWUS036ACHM / Kali Compatible / 2.4GHz & 5GHz / MediaTek MT7610U / 150Mbps & 433Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	Panda PAU06 / Kali Compatible / 2.4GHz & 5GHz / Ralink RT5572 / 300Mbps & 867Mbps / USB 2.0 / USB-A / 2 Interchangeable Antennas
+	ASUS USB-AC56 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 1 Interchangeable Antenna
+	Edimax EW-7811Un / Kali Compatible / 2.4GHz / Realtek RTL8188CUS / 150Mbps / USB 2.0 / USB-A / No External Antenna
+	TP-Link TL-WN725N (v2) / Kali Compatible / 2.4GHz / Realtek RTL8188EUS / 150Mbps / USB 2.0 / USB-A / No External Antenna
+	Ralink RT5370 USB / Kali Compatible / 2.4GHz / Ralink RT5370 / 150Mbps / USB 2.0 / USB-A / No External Antenna
+	Alfa AWUS036NHR / Kali Compatible / 2.4GHz / Realtek RTL8187 / 150Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	Cudy WU1300S / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812BU / 400Mbps & 867Mbps / USB 3.0 / USB-A / 2 Interchangeable Antennas
+	Rosewill RNX-AC1900PCE / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8814AU / 600Mbps & 1300Mbps / PCIe / 4 Interchangeable Antennas
+	Wavlink WL-WN688U5 / Kali Compatible / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-A / 2 Interchangeable Antennas
+	
+Kali NetHunter Compatible Chipsets:
+	ATH9K_HTC (AR9271, AR7010)
+	ATH10K
+	MT7610U
+	MT7612U
+	RT73
+	RT2800USB
+	RT3070
+	RTL8188EUS
+	RTL8188CU
+	RTL8188RU
+	RTL8192CU
+	RTL8192EU
+	RTL8723AU
+	RTL8811AU
+	RTL8812AU
+	RTL8814AU
+	RTL8821AU
+	RTW88-USB
+	QCACLD-2.0
+	QCACLD-3.0
+	BCM4339 (Cellphone / Nexus 5)
+	
+Confirmed Devices Working with NetHunter Builds:
+	TP-Link TL-WN722N v1 (Note: v2 & v3 have unsupported chipsets, but may work with RTL8812AU drivers) / 2.4GHz / Atheros AR9271 / 150Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	TP-Link TL-WN822N v1 - v4 / 2.4GHz / Realtek RTL8192CU / 300Mbps / USB 2.0 / USB-A / 2 Interchangeable Antennas
+	Alfa Networks AWUS036ACH / 2.4GHz & 5GHz / Realtek RTL8812AU / 300Mbps & 867Mbps / USB 3.0 / USB-C / 2 Interchangeable Antennas
+	Alfa Networks AWUS036NEH / 2.4GHz / Realtek RTL8187 / 150Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	Alfa Networks AWUS036NHA / 2.4GHz / Atheros AR9271 / 150Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	Alfa Networks AWUS036NH / 2.4GHz / Ralink RT3070 / 150Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
+	Panda PAU05 Nano / 2.4GHz / Ralink RT3070 / 300Mbps / USB 2.0 / USB-A / 1 Interchangeable Antenna
