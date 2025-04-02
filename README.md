@@ -12,4 +12,8 @@ Find the [list of network cards and adapters that support monitor mode here](htt
 
 
 ### Brief description of most common Kali Tools explaining what are they used for
-Find the [list of of applications here](https://github.com/azvthot/cybersec/blob/main/Brief%20description%20of%20Kali%20tools.txt)
+Find the [list of applications here](https://github.com/azvthot/cybersec/blob/main/Brief%20description%20of%20Kali%20tools.txt)
+
+
+### Most Used Kali Linux commands
+Find the [list of commands here](https://github.com/azvthot/cybersec/blob/main/Linux%20Commands%20for%20Cybersecurity.md)
