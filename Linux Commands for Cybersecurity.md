@@ -1,6 +1,6 @@
 # Linux Commands for Cybersecurity
 
-This document lists 500 of the most relevant Linux commands for cybersecurity, grouped by functionality. Each command includes a detailed explanation of its usage, examples, and relevance to security tasks such as penetration testing, system administration, network analysis, and forensics. These commands are commonly used in environments like Kali Linux as of April 2, 2025.
+This document lists the most relevant Linux commands for cybersecurity, grouped by functionality. Each command includes a detailed explanation of its usage, examples, and relevance to security tasks such as penetration testing, system administration, network analysis, and forensics. 
 
 ## Files & Folders
 
